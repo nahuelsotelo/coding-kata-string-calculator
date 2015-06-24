@@ -1,0 +1,21 @@
+{
+  "name": "coding-kata-string-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahuelsotelo/coding-kata-string-calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nahuelsotelo/coding-kata-string-calculator/issues"
+  },
+  "homepage": "https://github.com/nahuelsotelo/coding-kata-string-calculator#readme"
+}
